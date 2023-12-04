@@ -1,0 +1,15 @@
+<h2>Recover Your Account</h2>
+<form action="/recover_account/{{userId}}/{{token}}/" method="post">
+    {% csrf_token %}
+    <label for="">Password</label>
+    <div>
+        <input type="password", placeholder="Enter password">
+    </div>
+    <label for="">Confirm Password</label>
+    <div>
+        <input type="password", placeholder="Enter password">
+    </div>
+    <input hidden type="text" name="userId" value="{{userId}}">
+
+    <button type="submit">Submit</button>
+</form>
