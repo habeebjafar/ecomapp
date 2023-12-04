@@ -1,0 +1,1 @@
+from ecomapp.wsgi import application

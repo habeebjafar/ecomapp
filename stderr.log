@@ -1,0 +1,46 @@
+Not Found: /favicon.ico
+you are :  None
+you are :  None
+you are :  None
+None
+/cart
+you are :  None
+you are :  None
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/dashboard.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+you are :  None
+Not Found: /favicon.ico
+you are :  None
+Traceback (most recent call last):
+  File "/home/nobokoil/myapp/passenger_wsgi.py", line 1, in <module>
+    from ecomapp.wsgi import application
+  File "/home/nobokoil/myapp/ecomapp/wsgi.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/nobokoil/myapp/passenger_wsgi.py", line 1, in <module>
+    from ecomapp.wsgi import application
+  File "/home/nobokoil/myapp/ecomapp/wsgi.py", line 1
+    <<<<<<< HEAD
+    ^^
+SyntaxError: invalid syntax
